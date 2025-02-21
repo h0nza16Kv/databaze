@@ -29,7 +29,8 @@ Konfigurace:
 
   3) Spuštění aplikace ve Visual Studiu:
    - Nyní, když máme připojenou dattabázi, můžeme spustit aplikaci. Aplikace se spouští klasicky pomocí Run na horní liště ve VS. 
-   - Pokud chceme importovat pomocí csv je potřeba nejdříve odkomentovat objekt csvImport a cesty k souborům. Poté jěště přesunot soubory Zakaznik.csv a Autor.csv do bin/Debug/net8.0 
+   - Pokud chceme importovat pomocí csv je potřeba nejdříve odkomentovat objekt csvImport a cesty k souborům. Poté jěště přesunot soubory Zakaznik.csv a Autor.csv 
+   do bin/Debug/net8.0. Pro větší přehlednost zakomentujte objekt menu.
    - Všechny soubory se nachází ve složce Files
   
 	
