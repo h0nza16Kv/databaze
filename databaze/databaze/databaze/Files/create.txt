@@ -1,0 +1,83 @@
+﻿use pv;
+
+create table Autor (
+    autor_id int primary key identity (1,1),
+    jmeno nvarchar(50) not null,
+    prijmeni nvarchar(50) not null,
+    narodnost nvarchar(50) not null,
+    datum_narozeni date not null,
+
+	check (len(jmeno) >= 2),
+	check (len(prijmeni) >= 2),
+	check(jmeno like '[A-Z]%'),
+	check(prijmeni like '[A-Z]%'),
+	check (len(narodnost) >= 3),
+	check (datum_narozeni <= '2007-01-01')
+);
+
+
+create table Kniha (
+    kniha_id int primary key identity (1,1),
+	nazev nvarchar(100) not null,
+    isbn nchar(17) unique not null,
+    datum_vydani date not null,
+	pocet_stran int not null,
+    nakladatelstvi nvarchar(50) not null,
+
+	autor_id int not null,
+	foreign key (autor_id) references Autor(autor_id) on delete cascade,
+
+	check (datum_vydani <= getdate()),
+	check (len(isbn) = 17),
+	check (isbn like '978-%-%-%-%'),
+	check (len(nakladatelstvi) >= 2),
+	check (len(pocet_stran) > 0),
+	check (len(nazev) >= 2),
+	check(autor_id > 0)
+);
+
+create table Zakaznik (
+    zakaznik_id int primary key identity (1,1),
+    jmeno nvarchar(50) not null,
+    prijmeni nvarchar(50) not null,
+    email nvarchar(100) unique not null,
+    telefon nvarchar(16) unique not null,
+
+	check (len(jmeno) >= 2),
+	check (len(prijmeni) >= 2),
+	check(jmeno like '[A-Z]%'),
+	check(prijmeni like '[A-Z]%'),
+	check (email like '%@%.%'),
+	check (
+        telefon like '+%' or 
+        telefon like '%[0-9]%' and telefon not like '%[^0-9 ]%' 
+    )
+);
+
+create table Zapujcka (
+    zapujcka_id int primary key identity (1,1),
+    datum_zapujceni date not null,
+    datum_vraceni date not null,
+
+    zakaznik_id int not null,
+    foreign key (zakaznik_id) references Zakaznik(zakaznik_id) on delete cascade,
+
+    check(zakaznik_id > 0),
+	check (datum_zapujceni <= getdate()),
+	check (datum_vraceni > datum_zapujceni)
+);
+
+create table Produkt (
+    produkt_id int primary key identity (1,1),
+    dostupnost bit not null,
+  
+    kniha_id int not null,
+	zapujcka_id int,
+
+    foreign key (kniha_id) references Kniha(kniha_id) on delete cascade,
+	foreign key (zapujcka_id) references Zapujcka(zapujcka_id) on delete set null,
+
+	check(kniha_id > 0),
+	check (zapujcka_id > 0)
+	);
+

@@ -1,0 +1,111 @@
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\databaze.exe
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\databaze.deps.json
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\databaze.runtimeconfig.json
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.csproj.AssemblyReference.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfoInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfo.cs
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.csproj.CoreCompileInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.csproj.Up2Date
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\refint\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\databaze.genruntimeconfig.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\obj\Debug\net8.0\ref\databaze.dll
+C:\databaze\databaze\bin\Debug\net8.0\databaze.exe
+C:\databaze\databaze\bin\Debug\net8.0\databaze.deps.json
+C:\databaze\databaze\bin\Debug\net8.0\databaze.runtimeconfig.json
+C:\databaze\databaze\bin\Debug\net8.0\databaze.dll
+C:\databaze\databaze\bin\Debug\net8.0\databaze.pdb
+C:\databaze\databaze\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\databaze\databaze\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\databaze\databaze\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\databaze\databaze\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\databaze\databaze\obj\Debug\net8.0\databaze.csproj.AssemblyReference.cache
+C:\databaze\databaze\obj\Debug\net8.0\databaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfoInputs.cache
+C:\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfo.cs
+C:\databaze\databaze\obj\Debug\net8.0\databaze.csproj.CoreCompileInputs.cache
+C:\databaze\databaze\obj\Debug\net8.0\databaze.csproj.Up2Date
+C:\databaze\databaze\obj\Debug\net8.0\databaze.dll
+C:\databaze\databaze\obj\Debug\net8.0\refint\databaze.dll
+C:\databaze\databaze\obj\Debug\net8.0\databaze.pdb
+C:\databaze\databaze\obj\Debug\net8.0\databaze.genruntimeconfig.cache
+C:\databaze\databaze\obj\Debug\net8.0\ref\databaze.dll
+C:\databaze\databaze\bin\Debug\net8.0\databaze.dll.config
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.exe
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.dll.config
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.deps.json
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.runtimeconfig.json
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.csproj.AssemblyReference.cache
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfoInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfo.cs
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.csproj.CoreCompileInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.csproj.Up2Date
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\refint\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\databaze.genruntimeconfig.cache
+C:\Users\honza\OneDrive\Plocha\databaze (2)\databaze\databaze\obj\Debug\net8.0\ref\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.exe
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.dll.config
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.deps.json
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.runtimeconfig.json
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.csproj.AssemblyReference.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfoInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.AssemblyInfo.cs
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.csproj.CoreCompileInputs.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.csproj.Up2Date
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\refint\databaze.dll
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.pdb
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\databaze.genruntimeconfig.cache
+C:\Users\honza\OneDrive\Plocha\databaze\databaze\databaze\obj\Debug\net8.0\ref\databaze.dll
